@@ -95,6 +95,6 @@ For companies requiring:
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <b>KrpaSoft</b>.</sub><br>
-  <sub>Copyright © 2025 KrpaSoft. All rights reserved.</sub>
+  <sub>Built with ❤️ by <b>Krpasoft</b>.</sub><br>
+  <sub>Copyright © 2025 Krpasoft. All rights reserved.</sub>
 </div>
